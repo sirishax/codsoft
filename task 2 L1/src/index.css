@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-all duration-300;
+  }
+  .nav-link {
+    @apply hover:text-orange-500 transition-colors;
+  }
+}
