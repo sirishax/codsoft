@@ -28,7 +28,7 @@ Source code
 
 Clone the repo
 
-git clone <your-repo-link>
+git clone sirishax/codsoft 
 
 
 Open the folder of any project
